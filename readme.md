@@ -1,6 +1,6 @@
 # DevDetective
 
-[DevDetective](https://devdetective.netlify.app/) is a web application that retrieves and displays detailed GitHub profile information. 
+[DevDetective](https://dev-detective-ardhendu-shekhar.vercel.app/) is a web application that retrieves and displays detailed GitHub profile information. 
 
 ## Usage
 1. Input the target GitHub username.
